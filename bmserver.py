@@ -32,7 +32,7 @@ class Battery:
 
 def log(s):
     # print s
-    # return
+    return
 
     #f = open('/tmp/bm-log.txt', 'a')
     #f.write( "%s\n" % str( s ) )
